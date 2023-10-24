@@ -1,0 +1,6 @@
+id = "field-id"
+object.getElementById("field-id")
+a = object.getElementById("field-id").value;
+a
+ng-touched or ng-untouched
+user = {"firstName" : "abc", "password: : "pass"}

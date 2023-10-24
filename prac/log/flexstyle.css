@@ -1,0 +1,19 @@
+
+.flex-container{
+display:flex;
+}
+.flex-box{
+    width: 200px;
+    border:solid 3px;
+    background-color: brown;
+    margin: 3px;
+}
+.flex-box1{
+    min-height: 100px;
+}
+.flex-box2{
+    min-height: 200px;
+}
+.flex-box3{
+    min-height: 300px;
+}

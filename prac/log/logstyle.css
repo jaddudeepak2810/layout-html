@@ -1,0 +1,91 @@
+body {
+    margin:0;
+    padding:0;
+  width:100%;
+    background:pink;
+}
+
+.btn {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  line-height: 16px; 
+  padding: 8px;
+  border-radius: 10px;
+  font-family: Georgia, serif;
+  font-weight: normal; 
+  text-decoration: none;
+  font-style: normal; 
+  font-variant: normal;
+  text-transform: none; 
+  background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%);
+  box-shadow: rgb(36, 255, 74) -3px -3px 15px 15px;
+  border-top: none; 
+  border-right: 2px solid rgb(28, 110, 164);
+  border-bottom: none;
+  border-left: none; 
+  border-image: initial;
+  display: inline-block;
+   display:transplent;
+  width:14%;
+    margin: 15px;
+position:fixed;
+  right:10px;
+  top:10px;
+}
+.squarebox {
+    text-align:center;
+  -webkit-box-shadow: 6px -1px 7px 21px rgba(36,255,74,0.85); 
+box-shadow: 6px -1px 7px 21px rgba(36,255,74,0.85);
+padding: 48px; 
+text-transform: none;
+border: 3px solid rgba(28,110,164,0.84);
+  border-radius: 18px 18px 18px 18px;
+  position:fixed;
+  width:37%;
+  height: 60vh;
+  margin:80px;
+  }
+  h1{
+   text-align: center;
+  border:3px solid;
+  border-radius: 18px 18px 18px 18px;
+  
+background: #144E75;
+}
+  
+.Title {
+ 
+  text-align: center;
+
+ height:85%;
+  margin:6px;
+  width:97%;
+  padding:0;
+  border:3px solid;
+  border-radius: 18px 18px 18px 18px;
+ 
+
+}
+h4{
+width: 50%;
+  background: #144E75;
+  border:3px solid;
+}
+
+input[type="username" i] {
+  width: 50%;
+  border:3px solid;
+  padding: 1px 2px;
+  height: 6%;
+ range:url(A1.jpg);
+  border-radius: 4px 4px 4px 4px;
+  
+}
+input[type="password" i] {
+
+  width: 50%;
+  border:3px solid;
+  padding: 1px 2px;
+  height: 6%;
+  border-radius: 4px 4px 4px 4px;
+}

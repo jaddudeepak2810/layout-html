@@ -1,0 +1,6 @@
+Euro:-40 Uk: 7
+Euro:-41 Uk:7.5
+Euro:- 42 Uk: 8.5
+Euro:- 43 Uk: 9.5
+Euro:- 44 Uk: 10
+Euro:- 45 Uk: 11

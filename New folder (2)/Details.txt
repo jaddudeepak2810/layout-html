@@ -1,0 +1,26 @@
+Fri =250D,B
+sat= 60D,B
+monday= 300D,P
+tue=620 P,A,B,D
+wed=756
+tue:
+Ajith-100
+Deepak=170
+prathap- 200
+Balu-180
+wed:
+Ajith-46
+Deepak-220
+prathap-180
+Balu-311
+thurs:
+Ajith-100
+Deepak-200
+prathap-280
+Balu-222
+
+
+Euro:- 41
+Euro:- 42
+Euro:- 43
+Euro:- 44

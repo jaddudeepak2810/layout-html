@@ -1,0 +1,33 @@
+body{
+    margin:0%;
+    padding: 10,50,10,50;
+    width:50vw;
+    height: 30vh;
+}
+* {
+   
+  border-style: solid 5px;
+    border-radius:5,10,10,5px #ddd;
+-webkit-border-before-width: 10px;
+position: center;
+}
+.container{
+    display:flex;
+    padding:20px;
+    display: inline;
+    border-style: solid 10px;
+border-radius: 10px;
+}
+input[type="text" ],input[type="confirm password" ],input[type="password" ]{
+   
+    padding-left: 14px;
+    padding-top:58px;
+    padding-bottom:55px;
+    padding-right: 14px;
+}
+
+.rgn{
+    margin:0,10,10,0;
+    padding: 14px 58px;
+    width: 180px;
+}
